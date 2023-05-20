@@ -1,0 +1,1 @@
+const calc2 = require("./test-module2");
